@@ -1,5 +1,5 @@
-import { app } from "./app";
 import { loadEnv } from "./config/env.config";
+import { app } from "./app";
 
 const PORT = process.env.PORT;
 
